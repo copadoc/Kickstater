@@ -1,2 +1,2 @@
 # Kickstater
-Kickstarter Data week 1
+Kickstarter Analysis Week 1
