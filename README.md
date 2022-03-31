@@ -21,12 +21,13 @@ I believe some of the challenges I encountered was with the formula for the “c
 
 Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
-One of two conclusions I can formulate regarding the Outcome based on Launch Date is that during the months of May and June, the number of successful plays far exceeded the failed sections. Second, in other months, failed and successful remain close in failed and successful rate.
-https://user-images.githubusercontent.com/99380969/160500801-06c1503b-e5e4-4226-a814-cd32512bf954.png
+One of two conclusions I can formulate regarding the Outcome based on Launch Date is that during the months of May and June, the number of successful plays far exceeded the failed sections. Second, in other months, failed and successful remain close in failed and successful rate.![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99380969/161150656-2ad048d4-6163-48e2-a043-65ce7518292d.png)
+
 
 What can you conclude about the Outcomes based on Goals?
 I believe that most interesting fact about this chart is that most of the projects that had a higher goal did not reach that goal, in addition to that, the projects with a lower goal had a much higher successful percentage. The higher the goal the lower the percentage of successfulness.
-Outcomes_vs_Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99380969/161150698-0c1043f4-99c8-4b7b-9220-7a303a73cd2d.png)
+
 
 What are some limitations of this dataset?
 One of the limitations of the Kickstarter I observed was that it doesn’t account for some factors, like for example what happened in May and June that increased the number of successful on outcome based on launch date.
