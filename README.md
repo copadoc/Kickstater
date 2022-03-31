@@ -22,7 +22,7 @@ I believe some of the challenges I encountered was with the formula for the “c
 Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
 One of two conclusions I can formulate regarding the Outcome based on Launch Date is that during the months of May and June, the number of successful plays far exceeded the failed sections. Second, in other months, failed and successful remain close in failed and successful rate.
-Theater_Outcomes_vs_Launch
+https://user-images.githubusercontent.com/99380969/160500801-06c1503b-e5e4-4226-a814-cd32512bf954.png
 
 What can you conclude about the Outcomes based on Goals?
 I believe that most interesting fact about this chart is that most of the projects that had a higher goal did not reach that goal, in addition to that, the projects with a lower goal had a much higher successful percentage. The higher the goal the lower the percentage of successfulness.
